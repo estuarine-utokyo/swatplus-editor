@@ -1,5 +1,23 @@
 # README #
 
+> [!IMPORTANT]
+> **This is not the official SWAT+ Editor repository.** It is a fork maintained by
+> [estuarine-utokyo](https://github.com/estuarine-utokyo) for coastal and watershed modelling in Ghana
+> (Volta and Densu basins). It may contain local modifications that are not in the official code.
+> Use the official repository, [swat-model/swatplus-editor](https://github.com/swat-model/swatplus-editor),
+> for the released SWAT+ Editor, and report issues with the official code there, not here.
+>
+> Branches of this fork:
+> - `main` -- the maintainer's development branch (default; push and pull here);
+> - `upstream-main` -- an unmodified copy of the official `swat-model/swatplus-editor` branch `main`,
+>   updated by fast-forward only and merged into `main` from time to time.
+>
+> To follow the official repository in a clone:
+> `git remote add upstream https://github.com/swat-model/swatplus-editor.git`, then `git fetch upstream`;
+> update `upstream-main` with `git push origin upstream/main:upstream-main` and merge it into `main`.
+> Do not press GitHub's "Sync fork" button on `main`: it compares `main` with the official branch and
+> offers to discard the local commits.
+
 Desktop interface to SWAT+ allowing the user to import a project from GIS, modify SWAT+ input, write the text files, and run the model.
 
 Read the documentation at [swat-model.github.io/swatplus-editor-documentation/](https://swat-model.github.io/swatplus-editor-documentation/) and [join the user group](https://groups.google.com/g/swatplus-editor) to be notified of new releases.
