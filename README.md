@@ -2,8 +2,8 @@
 
 > [!IMPORTANT]
 > **This is not the official SWAT+ Editor repository.** It is a fork maintained by
-> [estuarine-utokyo](https://github.com/estuarine-utokyo) for coastal and watershed modelling in Ghana
-> (Volta and Densu basins). It may contain local modifications that are not in the official code.
+> [estuarine-utokyo](https://github.com/estuarine-utokyo) for watershed and coastal modelling research
+> (coupled with FVCOM). It may contain local modifications that are not in the official code.
 > Use the official repository, [swat-model/swatplus-editor](https://github.com/swat-model/swatplus-editor),
 > for the released SWAT+ Editor, and report issues with the official code there, not here.
 >
